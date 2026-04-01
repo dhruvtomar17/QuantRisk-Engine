@@ -19,7 +19,7 @@ Engineered a diagnostic tool to measure the exposure of high-weight Nifty 50 con
 - **Time-Series Analysis:** Generated historical price charts to identify volatility trends.
 - **Stochastic Path Visualization:** Created "spaghetti plots" to demonstrate the distribution of potential portfolio outcomes over a 252-day trading year.
 
-## 🛠 Tech Stack & Mathematical Foundation
+## Tech Stack & Mathematical Foundation
 - **Languages:** Python (NumPy, Pandas, Matplotlib, Seaborn, yfinance).
 - **Math & Stats:** Linear Algebra (Matrix Operations, Cholesky Decomposition), Probability Distributions, and Statistical Inference.
 
